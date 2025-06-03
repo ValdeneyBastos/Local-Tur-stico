@@ -1,0 +1,20 @@
+body {
+  background: #F5F4F0;
+}
+
+.headline {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold; /* a fonte fica em negrito */
+  color: #e1624f;
+  text-transform: uppercase; /* a fonte fica com todas as letras em maiúsculo */
+}
+
+.subtitle {
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic; /* Muda estilo da fonte para itálico */
+  text-align: center;
+  color: #333333;
+  margin-top: 24px;
+}
