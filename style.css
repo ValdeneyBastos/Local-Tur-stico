@@ -2,15 +2,15 @@ body {
   background: #F5F4F0;
 }
 
-.headline {
-  font-size: 5px;
-  line-height: 5px;
+headline {
+  font-size: 10px;
+  line-height: 12px;
   font-weight: bold; /* a fonte fica em negrito */
   color: #e1624f;
   text-transform: uppercase; /* a fonte fica com todas as letras em maiúsculo */
 }
 
-.subtitle {
+subtitle {
   font-size: 16px;
   line-height: 22px;
   font-style: italic; /* Muda estilo da fonte para itálico */
@@ -20,19 +20,21 @@ body {
 }
 
 figure {
+  display: flex;
+  justify-content: center;
   text-align: center;        /* Centraliza a imagem e a legenda */
   margin: 20px 0;
 }
 
 figcaption {
   font-size: 0.95rem;        /* Tamanho da fonte */
-  color: #666;               /* Cor da legenda */
+  color: #666666;               /* Cor da legenda */
   margin-top: 8px;           /* Espaço entre imagem e legenda */
   font-style: italic;        /* Texto em itálico */
 }
 
 footer {
-    color: #333;
+    color: #333333;
     text-align: center;
     padding: 48px;
 }
