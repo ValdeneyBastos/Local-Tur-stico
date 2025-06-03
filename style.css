@@ -3,8 +3,8 @@ body {
 }
 
 .headline {
-  font-size: 16px;
-  line-height: 22px;
+  font-size: 5px;
+  line-height: 5px;
   font-weight: bold; /* a fonte fica em negrito */
   color: #e1624f;
   text-transform: uppercase; /* a fonte fica com todas as letras em maiúsculo */
@@ -17,4 +17,26 @@ body {
   text-align: center;
   color: #333333;
   margin-top: 24px;
+}
+
+figure {
+  text-align: center;        /* Centraliza a imagem e a legenda */
+  margin: 20px 0;
+}
+
+figcaption {
+  font-size: 0.95rem;        /* Tamanho da fonte */
+  color: #666;               /* Cor da legenda */
+  margin-top: 8px;           /* Espaço entre imagem e legenda */
+  font-style: italic;        /* Texto em itálico */
+}
+
+footer {
+    color: #333;
+    text-align: center;
+    padding: 48px;
+}
+
+footer img {
+    vertical-align: middle;
 }
