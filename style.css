@@ -17,7 +17,7 @@
   --orange-accent: #E95E10;
 }
 
-::selection{
+:selection{
   background-color: var(--orange-accent);
   color: var(--default-color);
 }
