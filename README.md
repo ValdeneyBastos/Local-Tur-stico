@@ -41,7 +41,7 @@ Fique por dentro do layout do através [DESSE LINK](https://www.figma.com/design
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. 
 
 ---------
 
