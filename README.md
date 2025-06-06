@@ -1,14 +1,14 @@
 <h1 align="center"> Local Turístico </h1>
 
 <p align="center">
-Desafio para desenvolver um web site so locais turísticos da cidade de Busan na Coreia do Sul.
+Desafio do Curso Rocketseat - Full-stack. Para desenvolver um site dos locais turistico da cidade Busan na Coreia do Sul.
 </P>
 
 <p align="center">
     <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-licenca">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-licenca">Licença</a>
 </p>
 
 <br>
