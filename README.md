@@ -5,10 +5,10 @@ Desafio para desenvolver um web site so locais turísticos da cidade de Busan na
 </P>
 
 <p align="center">
-    <a href="#-Tecnologias">Tecnologias</a>
-    <a href="#-projeto">Projeto</a>
-    <a href="#-layout">Layout</a>
-    <a href="#-licenca">Licença</a>
+    <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-licenca">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -42,5 +42,7 @@ Fique por dentro do layout do através [DESSE LINK](https://www.figma.com/design
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---------
 
 Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
